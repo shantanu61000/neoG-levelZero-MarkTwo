@@ -7,6 +7,8 @@ This is simple JavaScript CLI Quiz app which has **3 games in total**
 3. Birthday is a prime Number
 
 
+[**--> Click here to play the game**](https://replit.com/@shantanu61000/MarkTwo-country-capital-quiz?embed=1&output=1)
+
 ## List of npm packages used
 ### 1. readlineSync
 Features of readlineSync that are used in this app
@@ -19,6 +21,8 @@ Used Chalk to beautify the app. Below are the places where i used chalk
 1. color the answers if it was right/wrong in quiz game.
 2. color the error message if user entered date in wrong format.
 3. beautify the final scores and if the high score was beaten/matched.
+
+
 ## JavaScripts concepts covered
 1. console.log
 2. variables
